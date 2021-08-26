@@ -1,0 +1,11 @@
+Arduboy has 32KB of Flash
+
+Spritesheet specs:
+  Size: 1472 x 1024 = 1 507 328 pixels -? 188 416 bytes for mono graphics
+  Sprite width: 64
+  Sprite height: 64
+  Number of columns: 23
+  Number of rows: 16
+  Total number of sprites: 368
+
+(1 directions * 23 * 64 * 64) / 8 = 11 776
